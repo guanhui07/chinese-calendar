@@ -5,7 +5,7 @@
 # Installing
 
 ```shell
-$ composer require overtrue/chinese-calendar -vvv
+$ composer require guanhui07/chinese-calendar -vvv
 ```
 
 # Usage
