@@ -19,7 +19,7 @@ $calendar = new Calendar();
 
 $result = $calendar->solar(2017, 5, 5); // 阳历
 $result = $calendar->lunar(2017, 4, 10); // 阴历
-$result = $calendar->solar(2017, 5, 5, 23) // 阳历，带 $hour 参数
+$result = $calendar->solar(2017, 5, 5, 23); // 阳历，带 $hour 参数
 
 ```
 
