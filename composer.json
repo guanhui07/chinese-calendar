@@ -4,7 +4,7 @@
     "keywords": ["chinese", "calendar", "lunar", "solar", "solar2lunar", "lunar2solar"],
     "type": "library",
     "require": {
-        "php":">=5.5.9"
+        "php":">=7.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0"
